@@ -1,0 +1,23 @@
+{
+  "name": "my_s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://alex1-w.github.io/myFirstSite",
+  "scripts": {
+    "deploy": "gh-pages -d ../my_s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex1-w/myFirstSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex1-w/myFirstSite/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
